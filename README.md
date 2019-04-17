@@ -4,4 +4,3 @@
 1. ArXiv_2017_Howard_MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [[paper](https://arxiv.org/pdf/1704.04861.pdf)], [[code](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md)], [[code1](https://github.com/Zehaos/MobileNet)]
 1. ArXiv_2017_Canziani_An Analysis of Deep Neural Network Models for Practical Applications. [[paper](https://arxiv.org/pdf/1605.07678.pdf)], [code]
 
-# Datasets
