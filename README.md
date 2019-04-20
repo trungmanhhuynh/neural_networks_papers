@@ -6,3 +6,5 @@
 1. ArXiv_2017_Canziani_An Analysis of Deep Neural Network Models for Practical Applications. [[paper](https://arxiv.org/pdf/1605.07678.pdf)], [code]
 1. ArXiv_2019_Exploring Randomly Wired Neural Networks for Image Recognition.[[paper](https://arxiv.org/pdf/1904.01569.pdf)],[code].
 
+
+\begin{equation} \begin{bmatrix} x & \dot{x} & \theta & \dot{\theta} & L & m & M \end{bmatrix} \end{equation}
