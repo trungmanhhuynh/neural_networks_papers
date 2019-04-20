@@ -7,4 +7,4 @@
 1. ArXiv_2019_Exploring Randomly Wired Neural Networks for Image Recognition.[[paper](https://arxiv.org/pdf/1904.01569.pdf)],[code].
 
 
-\begin{equation} \begin{bmatrix} x & \dot{x} & \theta & \dot{\theta} & L & m & M \end{bmatrix} \end{equation}
+<a href="https://www.codecogs.com/eqnedit.php?latex=log(x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?log(x)" title="log(x)" /></a>
