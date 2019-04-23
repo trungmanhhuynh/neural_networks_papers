@@ -7,5 +7,3 @@
 1. CVPR_2018_**MorphNet**_GoogleAI_MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep.[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf)],[code]
 1. ArXiv_2019_Exploring Randomly Wired Neural Networks for Image Recognition.[[paper](https://arxiv.org/pdf/1904.01569.pdf)],[code].
 
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=log(x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?log(x)" title="log(x)" /></a>
