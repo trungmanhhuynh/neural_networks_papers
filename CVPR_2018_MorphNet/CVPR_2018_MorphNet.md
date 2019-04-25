@@ -6,3 +6,5 @@ with respectied to targeted resources (e.g. FLOPs or network size).
 It shrinks and expands the baseline network iteratively using the L1-norm Regularaization approach (for shrinking) and 
 width multiplier (for expanding). These two approachs are not new in this research domain, especially width multiplier was used in
 MobileNet. 
+
+[](./fig1.JPG)
