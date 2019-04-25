@@ -7,4 +7,4 @@ It shrinks and expands the baseline network iteratively using the L1-norm Regula
 width multiplier (for expanding). These two approachs are not new in this research domain, especially width multiplier was used in
 MobileNet. 
 
-<image src ="./fig1.JPG" width="100" height>
+<image src ="./fig1.JPG" width="500" height>
